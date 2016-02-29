@@ -1,0 +1,207 @@
+{
+  "basics": {
+    "name": "Henry Ashton-Martyn",
+    "label": "Senior Test Analyst",
+    "picture": "https://secure.gravatar.com/avatar/c6b00f1e7298abd62dc6ae17ec381874?s=200&amp;r=pg&amp;d=mm",
+    "email": "henry.ashton.martyn@gmail.com",
+    "phone": "0211383730",
+    "website": "",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Christchurch",
+      "countryCode": "NZ",
+      "region": "Canterbury"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "hashtonmartyn",
+        "url": ""
+      },
+      {
+        "network": "LinkedIn",
+        "username": "henry-ashton-martyn-20509177",
+        "url": "https://www.linkedin.com/in/henry-ashton-martyn-20509177"
+      },
+      {
+        "network": "Github",
+        "username": "hashtonmartyn",
+        "url": "https://github.com/hashtonmartyn"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Tait Communications",
+      "position": "Senior Test Analyst",
+      "website": "https://www.taitradio.com/",
+      "startDate": "2014-11",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Proposed and had accepted a Callaghan student project for a new build system for the Terminals team",
+        "Championed BDD adoption",
+        "Member of the Test Management group",
+        "Ran Python training courses",
+        "Spoke about my experiences in test automation at a combined Agile Professionals Netowrk and Test Professionals Network event",
+        "Recently started in a development role on a new project"
+      ]
+    },
+    {
+      "company": "Tait Communications",
+      "position": "Test Analyst",
+      "website": "https://www.taitradio.com/",
+      "startDate": "2013-11",
+      "endDate": "2014-11",
+      "summary": "",
+      "highlights": [
+        "Proposed and had accepted a Callaghan student project for test data analysis with Kibana",
+        "Attended the Agile Testing Days conference in Germany",
+        "Sole tester on the Terminals P25 Trunking Phase 2 project",
+        "Implemented a performance testing framework",
+        "Manager and maintainer of the test automation backlog",
+        "Responsible for the architecture of the test automation software and supporting libraries",
+        "Reviewing test case design and implementation from colleagues",
+        "Monitoring the stability of the tests and ensuring that trends in stability are visible"
+      ]
+    },
+    {
+      "company": "EstarOnline",
+      "position": "Software Developer",
+      "website": "https://www.estaronline.com/",
+      "startDate": "2013-08",
+      "endDate": "2013-10",
+      "summary": "",
+      "highlights": [
+        "SQL database maintenance",
+        "Developing and deploying bug fixes and features to e-commerce web sites",
+        "Developing bug fixes at a platform level",
+        "Developing suites of unit tests for core platform libraries",
+        "Attended the OWASP (Open Web Application Security Project) NZ Day 2013 in Auckland"
+      ]
+    },
+    {
+      "company": "Tait Communications",
+      "position": "Junior Test Analyst",
+      "website": "https://www.taitradio.com/",
+      "startDate": "2011-12",
+      "endDate": "2013-07",
+      "summary": "",
+      "highlights": [
+        "Maintaining a Jenkins Continuous Integration Server",
+        "Mentoring team members in their automation development work",
+        "Teaching team members how to analyse automated test results",
+        "Technical leader in test automation",
+        "Automated test results analysis and publication",
+        "Manual testing and results publication",
+        "Verification of bug fixes for developers",
+        "Development of test tools"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Canterbury",
+      "area": "Science",
+      "studyType": "Bachelor of",
+      "startDate": "2009-02",
+      "endDate": "2013-11",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "1st place in the Software Testing World Cup Oceania heats",
+      "date": "2014-05-22",
+      "awarder": "STWC",
+      "summary": ""
+    },
+    {
+      "title": "2nd place in the Software Testing World Cup final",
+      "date": "2014-11-12",
+      "awarder": "STWC",
+      "summary": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Languages",
+      "level": "",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Python",
+        "C++",
+        "C#",
+        "SQL",
+        "Java",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "Practises",
+      "level": "",
+      "keywords": [
+        "TDD",
+        "BDD",
+        "Scrum",
+        "Code reviews",
+        "Design reviews"
+      ]
+    },
+    {
+      "name": "Tools",
+      "level": "",
+      "keywords": [
+        "SVN",
+        "git",
+        "Mercurial",
+        "Elasticsearch",
+        "Kibana",
+        "Jenkins"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Craft Beer",
+      "keywords": [
+        "Brewing",
+        "Sampling"
+      ]
+    },
+    {
+      "name": "Gardening",
+      "keywords": [
+        "Herbs",
+        "Pretty, but inedible, plants"
+      ]
+    },
+    {
+      "name": "Cars",
+      "keywords": [
+        "Driving",
+        "Conversing about"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request",
+      "reference": ""
+    }
+  ]
+}
